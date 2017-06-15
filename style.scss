@@ -225,14 +225,14 @@ nav {
 
   a {
     margin-left: 20px;
-    color: #C0B283;
+    color: #373737;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
 
     @include mobile {
       margin: 0 10px;
-      color: #C0B283;
+      color: #373737;
     }
   }
 }
@@ -254,7 +254,7 @@ nav {
 .post {
   blockquote {
     margin: 1.8em .8em;
-    border-left: 2px solid #C0B283;
+    border-left: 2px solid #373737;
     padding: 0.1em 1em;
     color: #C0B283;
     font-size: 22px;
