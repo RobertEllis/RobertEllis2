@@ -156,7 +156,7 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid #C0B283;
+  border-bottom: 1px solid #373737;
 
   @include mobile {
     text-align: center;
@@ -265,11 +265,6 @@ nav {
     margin-top: 10px;
   }
 
-  .read-more {
-    text-transform: uppercase;
-    font-size: 15px;
-  }
-}
 
 .wrapper-footer {
   margin-top: 50px;
