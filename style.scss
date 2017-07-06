@@ -21,14 +21,14 @@ body {
 	background-image: url("http://www.hdwallpapers.in/walls/monument_valley_5k-HD.jpg");
   background-position: center center;
   font: 18px/1.4 "Times New Roman", Times, serif;
-  color: #FF3B3F;
+  color: #76323F;
 }
 
 table, th, td { 
-	border-bottom: 1px solid #FF3B3F;
+	border-bottom: 1px solid #76323F;
 	padding: 15px;
 	text-align: center;
-	tr:hover {background-color: rgba(226, 226, 226, 0.4)};
+	tr:hover {background-color: rgba(86, 86, 86, 0.4)};
 }
 	
 
@@ -37,13 +37,13 @@ table, th, td {
   max-width: 1080px;
   padding: 0 10px;
   width: 100%;
-  background: rgba(244, 244, 244, 0.4);
+  background: rgba(86, 86, 86, 0.4);
   border-radius: 20px;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Times New Roman", Times, serif;
-  color: #FF3B3F;
+  color: #76323F;
   font-weight: bold;
 
   line-height: 1.7;
@@ -72,7 +72,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: #FF3B3F;
+  color: #76323F;
 }
 
 p {
@@ -84,7 +84,7 @@ a {
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: #373737;
+    color: #565656;
   }
 }
 
@@ -128,17 +128,17 @@ img {
 
 .date {
   font-style: italic;
-  color: #FF3B3F;
+  color: #76323F;
 }
 
 // Specify the color of the selection
 ::-moz-selection {
   color: #FF3B3F;
-  background: #FF3B3F;
+  background: #76323F;
 }
 ::selection {
-  color: #FF3B3F;
-  background: #FF3B3F;
+  color: #76323F;
+  background: #76323F;
 }
 
 // Nicolas Gallagher's micro clearfix hack
@@ -167,7 +167,7 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid #373737;
+  border-bottom: 1px solid #565656;
 
   @include mobile {
     text-align: center;
@@ -203,7 +203,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: #FF3B3F;
+  color: #76323F;
   cursor: pointer;
   font-family: "Times New Roman", Times, serif;
   font-weight: 300;
@@ -213,7 +213,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: #FF3B3F;
+  color: #76323F;
   font-size: 16px;
 
   @include mobile {
@@ -236,14 +236,14 @@ nav {
 
   a {
     margin-left: 20px;
-    color: #FF3B3F;
+    color: #76323F;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
 
     @include mobile {
       margin: 0 10px;
-      color: #FF3B3F;
+      color: #76323F;
     }
   }
 }
@@ -254,7 +254,7 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid #373737;
+  border-bottom: 1px solid #76323F;
 }
 
 .posts > .post:last-child {
@@ -265,9 +265,9 @@ nav {
 .post {
   blockquote {
     margin: 1.8em .8em;
-    border-left: 2px solid #373737;
+    border-left: 2px solid #565656;
     padding: 0.1em 1em;
-    color: #FF3B3F;
+    color: #76323F;
     font-size: 22px;
     font-style: italic;
     font-family: "Times New Roman", Times, serif;
@@ -283,7 +283,7 @@ nav {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: #FF3B3F;
+  background-color: #76323F;
 }
 
 footer {
